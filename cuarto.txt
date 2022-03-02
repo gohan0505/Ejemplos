@@ -1,2 +1,3 @@
 soy el cuarto
-amplificador con transistor
+commutador con transistor
+zona de saturacion, Zona de cierre;
