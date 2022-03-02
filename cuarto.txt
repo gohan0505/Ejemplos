@@ -1,0 +1,3 @@
+soy el cuarto
+commutador con transistor
+zona de saturacion, Zona de cierre;
